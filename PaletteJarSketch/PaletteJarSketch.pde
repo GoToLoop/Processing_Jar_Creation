@@ -1,11 +1,12 @@
 /**
- * PaletteJarSketch (v1.0)
+ * PaletteJarSketch (v1.1)
  * GoToLoop (2018/Jul/13)
  *
  * https://Discourse.Processing.org/t/
  * including-shared-pde-files-across-projects/1701/2
  */
 
+import malcolm.Palette;
 import static malcolm.Palette.*;
 
 background(BLUE);
