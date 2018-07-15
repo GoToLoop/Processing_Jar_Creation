@@ -1,1 +1,0 @@
-jar cf Palette.jar *
